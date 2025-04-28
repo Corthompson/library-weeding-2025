@@ -4,12 +4,18 @@ creator,Creator,
 date,Date Created,
 description,Description,
 subject,Subjects,true
-location,Location
+weeding_considerations
 latitude,Latitude
 longitude,Longitude
-source,Source
-identifier,Source Identifier,,
 type,Type,
 format,Format,
+language
 rights,Rights,
 rightsstatement,Rights Statement,,true
+publisher
+contributor
+file size
+pages
+object_location
+citation
+audience
