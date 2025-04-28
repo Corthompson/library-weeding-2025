@@ -11,6 +11,7 @@ source,Source
 identifier,Source Identifier,,
 type,Type,
 format,Format,
+language, Language
 rights,Rights,
 rightsstatement,Rights Statement,,true
 weeding_considerations, Weeding Considerations
